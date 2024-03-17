@@ -3,7 +3,9 @@
 
 
 body{
-    background-color: antiquewhite;
+    /* background-color: antiquewhite; */
+    background-color: lightblue;
+
 }
 *{
     margin: 0;
